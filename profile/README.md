@@ -11,6 +11,9 @@ VLT Sweden Växjö is dedicated to managing and delivering Video Lottery Termina
 To gain access to this organization:
 
 Create a GitHub user at http://github.com/ (you can use a personal account if you wish, but it's best to make one for IGT)
+
 Go to oneIGT via Microsoft Teams and fill out a "GitHub Access Request". Ensure you pick igt-vxo-gr and add your appropriate information (name, email, GitHub username)
+
 Alternatively, if you already have GitHub access to igt-all, you can ask the owners of igt-vxo-gr to give you access
+
 You may also want to request access to igt-gsp (the platform organization)
