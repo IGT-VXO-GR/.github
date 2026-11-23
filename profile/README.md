@@ -1,10 +1,13 @@
-VLT Sweden Växjö
+<H1>VLT Sweden Växjö</H1>
+
 Welcome to the official GitHub organization for VLT Sweden Växjö.
 
-About Us
-VLT Sweden Växjö is dedicated to managing and delivering Video Lottery Terminal (VLT) solutions from the Moncton Spielo Studio. Our organization serves as the central hub for all source code, documentation, and collaborative efforts related to VLT deliveries.
+<H2>About Us</H2>
 
-Gaining Access
+VLT Sweden Växjö is dedicated to managing and delivering Video Lottery Terminal (VLT) solutions from the Sweden Växjö office. Our organization serves as the central hub for all of our source code, documentation, and collaborative efforts related to VLT deliveries.
+
+<H2>Gaining Access</H2>
+
 To gain access to this organization:
 
 Create a GitHub user at http://github.com/ (you can use a personal account if you wish, but it's best to make one for IGT)
